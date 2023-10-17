@@ -19,6 +19,7 @@ Sou uma desenvolvedora entusiasta que está constantemente explorando e aprimora
 
 ## Recursos
 
+* Vá até meu *[Portfolio](https://fabiane-portfolio.netlify.app)*
 * Navegue pelos projetos para conhecer meu trabalho mais recente.
 * Encontre informações detalhadas sobre cada projeto, incluindo tecnologias usadas, descrição e links de código-fonte e demonstração.
 * Navegue pela seção de Contato para entrar em contato comigo diretamente.
