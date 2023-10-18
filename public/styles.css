@@ -214,7 +214,7 @@ h2 {
 
 .coding-img {
   width: 25vw;
-  min-width: 400px;
+  min-width: 350px;
   grid-row: 1 / 5;
   grid-column: 3 / 4;
   justify-self: end;
@@ -605,7 +605,7 @@ hr {
   }
 
   .home-container{
-    column-gap: 18px;
+    column-gap: 0;
   }
 
   h1 {
@@ -630,7 +630,7 @@ hr {
 /* Responsividade do body, seção home e seção sobre */
 @media (max-width: 1200px) {
   .center {
-    max-width: 90vw;
+    max-width: 95vw;
   }
 
   .home-container {
