@@ -382,6 +382,7 @@ hr {
   grid-column: 2/3;
   grid-row: 2/3;
   line-height: 180%;
+  padding-bottom: 60px;
 }
 
 .portfolio-container .carousel::-webkit-scrollbar {
