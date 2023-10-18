@@ -2,10 +2,18 @@ import Tindog from "../img/carousel/tindog.PNG";
 import SimonGame from "../img/carousel/simon-game.PNG";
 import DrumKit from "../img/carousel/drum-kit.png";
 import Dicee from "../img/carousel/dicee.png";
-
-
+import Portfolio from "../img/carousel/personal-portfolio.png";
 
 const carousel = [
+    {   
+        id: "1",
+        img: Portfolio,
+        alt: "Portfolio",
+        title: "Personal Site",
+        details: "Meu portfolio pessoal, onde compartilho meus projetos e meus aprendizados em tecnologias de desenvolvimento web.",
+        url: "https://fabiane-portfolio.netlify.app",
+        github: "https://github.com/FabianeElla/Portfolio"
+    },
     {   
         id: "2",
         img: Tindog,

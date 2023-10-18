@@ -12,7 +12,7 @@ function Footer() {
       <h3>Formas de contato comigo</h3>
       <ul className="footer-flex">
         <li>
-          <a href="https://api.whatsapp.com/send?phone=5543984182035&text=Ol%C3%A1,%20Fabiane!%20Vim%20por%20meio%20do%20seu%20Portfolio...">
+          <a href="https://w.app/Fabiane">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="26"
